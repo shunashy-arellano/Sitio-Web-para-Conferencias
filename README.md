@@ -20,7 +20,7 @@ También incluye imágenes alternativas en la carpeta **img** en caso de que se 
 ### Programa del evento:
 ![Programa del evento](readme/screenshoot2.PNG)
 ### Invitados:
-![Invitados](readme/screenshoot3PNG)
+![Invitados](readme/screenshoot3.PNG)
 ### Listado de precios:
 ![Listado de precios](readme/screenshoot4.PNG)
 ### Mapa interactivo:
