@@ -15,29 +15,29 @@ El propósito de esta página web es que los usuarios puedan pagar por sus entra
 También incluye imágenes alternativas en la carpeta **img** en caso de que se desee personalizar las imágenes principales y el vídeo de fondo.
 
 ## Capturas de pantalla:
-![Primera parte de la página web](readme/screenshot1.PNG)
+![Primera parte de la página web](readme/screenshoot1.PNG)
 
-![Programa del evento](readme/screenshot2.PNG)
+![Programa del evento](readme/screenshoot2.PNG)
 
-![Invitados](readme/screenshot3PNG)
+![Invitados](readme/screenshoot3PNG)
 
-![Listado de precios](readme/screenshot4.PNG)
+![Listado de precios](readme/screenshoot4.PNG)
 
-![Mapa interactivo](readme/screenshot5.PNG)
+![Mapa interactivo](readme/screenshoot5.PNG)
 
-![Testimoniales](readme/screenshot6.PNG)
+![Testimoniales](readme/screenshoot6.PNG)
 
-![Contacto](readme/screenshot7.PNG)
+![Contacto](readme/screenshoot7.PNG)
 
-![Registro de usuarios](readme/screenshot8.PNG)
+![Registro de usuarios](readme/screenshoot8.PNG)
 
-![Reservaciones](readme/screenshot9.PNG)
+![Reservaciones](readme/screenshoot9.PNG)
 
-![Reservaciones pt. 2](readme/screenshot9.PNG)
+![Reservaciones pt. 2](readme/screenshoot9.PNG)
 
-![Elección de talleres](readme/screenshot10.PNG)
+![Elección de talleres](readme/screenshoot10.PNG)
 
-![Pago y extras](readme/screenshot11.PNG)
+![Pago y extras](readme/screenshoot11.PNG)
 
 ## Tecnologías
 - HTML
