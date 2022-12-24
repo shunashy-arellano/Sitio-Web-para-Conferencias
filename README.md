@@ -15,7 +15,7 @@ El propósito de esta página web es que los usuarios puedan pagar por sus entra
 También incluye imágenes alternativas en la carpeta **img** en caso de que se desee personalizar las imágenes principales y el vídeo de fondo.
 
 ## Capturas de pantalla:
-### Primera parte de la página web
+### Primera parte de la página web:
 ![Primera parte de la página web](readme/screenshoot1.PNG)
 ### Programa del evento:
 ![Programa del evento](readme/screenshoot2.PNG)
