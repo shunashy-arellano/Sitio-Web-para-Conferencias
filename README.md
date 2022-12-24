@@ -1,4 +1,4 @@
-#Sitio web para conferencias (Responsive)
+# Sitio web para conferencias (Responsive)
 
 Este proyecto es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive").
 
